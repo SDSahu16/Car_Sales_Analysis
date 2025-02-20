@@ -1,0 +1,7 @@
+Key Features:
+📊 Sales Overview: Total sales, quantity, and price analysis.
+📈 Monthly Trends: A time-series visualization of sales growth.
+🎨 Car Color Preferences: Pie chart showing distribution by color.
+🌍 Regional Sales Breakdown: Geospatial analysis of sales across the U.S.
+🏆 Model-wise Performance: Sales comparison across different car brands.
+⚙️ Engine & Transmission Impact: Filtering options to analyze impact by car type.
