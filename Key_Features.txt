@@ -4,4 +4,4 @@ Key Features:
 🎨 Car Color Preferences: Pie chart showing distribution by color.
 🌍 Regional Sales Breakdown: Geospatial analysis of sales across the U.S.
 🏆 Model-wise Performance: Sales comparison across different car brands.
-⚙️ Engine & Transmission Impact: Filtering options to analyze impact by car type.
+⚙️ Engine & Transmission Impact: Sales Comparison on the basis of Engie type and trnansmission type preference.
